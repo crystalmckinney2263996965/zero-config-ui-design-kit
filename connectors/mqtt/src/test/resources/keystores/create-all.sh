@@ -142,3 +142,5 @@ echo;echo =====  clientTrustStore
 keytool -list -storepass passw0rd -keystore clientTrustStore.jks
 echo;echo =====  clientKeyStore
 keytool -list -storepass passw0rd -keystore clientKeyStore.jks
+
+# 188e14
